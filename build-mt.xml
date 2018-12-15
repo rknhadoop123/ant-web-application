@@ -8,6 +8,7 @@
 	</target>
 	
 	<!-- Define the CLASSPATH -->
+	<!-- Define the CLASSPATH -->
 	<path id="compile.classpath">
 		<fileset dir="${web.home}/WEB-INF/lib">
 			<include name="*.jar"/>
